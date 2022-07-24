@@ -1,1 +1,5 @@
-apuntes de las clases de la universidad mayor de san simón carrea ing. sistemas
+# Apuntes de la Universidad
+
+## Ing. Sistemas
+
+son apuntes de mi estudio en ingeniería en sistemas

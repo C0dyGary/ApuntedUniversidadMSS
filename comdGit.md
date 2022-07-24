@@ -19,3 +19,14 @@ git remote add origin https://github.com/namenick/namerepository.git #<== url de
 git branch -M  "main"
 git push -u origin "main"
 ```
+
+## comandos
+
+comando a utilizar frecuentemente
+
+```bash
+git status
+git add nombredelarchivo.extecion #achivo.txt
+git commint -m "descripciondelamodificacion"
+git push -u origin "nombre de la rama" #main
+```

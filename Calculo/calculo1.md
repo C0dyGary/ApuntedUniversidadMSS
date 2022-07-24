@@ -1,5 +1,5 @@
 # CALCULO 1
 
-## CAPITULO 1
+## CAPITULO 1.-
 
-### Números reales $R$
+### 1.1 Números Reales $\mathbb{R}$
